@@ -1,18 +1,21 @@
+/* class button */ 
 .button{
     background-color: #21496d;
     border-radius: 0.4rem;
 }
 
+/* id account button */ 
 #account_button{
     margin-left: 40rem;
-
 }
 
+/* id market button */ 
 #market_button{
     margin-left: 5rem;
     margin-top: 5rem;
 }
 
+/* id home button */ 
 #home_button{
     margin-left: 5rem;
     margin-top: 5rem;
