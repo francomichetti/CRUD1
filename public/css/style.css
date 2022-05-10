@@ -1,0 +1,19 @@
+.button{
+    background-color: #21496d;
+    border-radius: 0.4rem;
+}
+
+#account_button{
+    margin-left: 40rem;
+
+}
+
+#market_button{
+    margin-left: 5rem;
+    margin-top: 5rem;
+}
+
+#home_button{
+    margin-left: 5rem;
+    margin-top: 5rem;
+}
